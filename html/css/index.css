@@ -1,0 +1,107 @@
+/* Estilos básicos para estructurar la página */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  background-color: #f4f4f4;
+  color: #333;
+}
+
+/* Contenedor central */
+.container {
+  width: 90%;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 1rem;
+}
+
+/* Encabezado */
+header {
+  background-color: #1e1e1e;
+  color: #fff;
+  padding: 1rem 0;
+  text-align: center;
+}
+
+header h1 {
+  margin: 0;
+}
+
+/* Navegación */
+nav ul {
+  list-style: none;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  gap: 2rem;
+}
+
+nav a {
+  color: #fff;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+/* Secciones generales */
+section {
+  padding: 2rem 0;
+}
+
+section h2 {
+  border-bottom: 2px solid #ccc;
+  padding-bottom: 0.5rem;
+}
+
+/* Estilos de los artículos o tarjetas */
+.item {
+  background-color: #fff;
+  border: 1px solid #ddd;
+  padding: 1rem;
+  margin-bottom: 1rem;
+  border-radius: 6px;
+  box-shadow: 0px 0px 8px rgba(0,0,0,0.1);
+}
+
+/* Pie de página */
+footer {
+  background-color: #1e1e1e;
+  color: #fff;
+  padding: 1rem 0;
+  text-align: center;
+}
+p {
+  font-size: 18px;
+  color: #333;
+  text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+}
+.buscador {
+  margin-top: 10px; /* Espacio debajo del encabezado */
+  text-align: center;
+}
+
+.buscador input {
+  padding: 8px;
+  width: 60%;
+  border: 2px solid #ccc;
+  border-radius: 5px;
+}
+
+.buscador button {
+  padding: 8px 12px;
+  background: #3498db;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.buscador button:hover {
+  background: #217dbb;
+}
+h1 a {
+  text-decoration: none;
+  color: inherit;
+}
+
+h1 a:hover {
+  color: ##ffffff;
+}
