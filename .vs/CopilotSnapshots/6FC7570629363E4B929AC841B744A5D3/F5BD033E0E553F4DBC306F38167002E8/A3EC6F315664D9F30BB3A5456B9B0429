@@ -1,0 +1,48 @@
+﻿<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Biblioteca de Videojuegos</title>
+    <link rel="stylesheet" href="html/css/index.css">
+</head>
+<body>
+    <header>
+     <h1><a href="index.html">Biblioteca Videojuegos</a></h1>
+        <nav>
+            <ul>
+        <li><a href="index.html">Inicio</a></li>
+        <li><a href="musica.html">Música</a></li>
+        <li><a href="videojuegos.html">Videojuegos</a></li>
+            </ul>
+        </nav>
+        <input type="text" id="buscar" placeholder="Buscar música o videojuegos...">
+    </header>
+
+    <main class="container">
+    <!-- Sección de Videojuegos -->
+   <section id="videojuegos">
+      <h2>Videojuegos</h2>
+      <article class="item">
+        <h3>Pokemon-Edicion rojo fuego(español)</h3>
+    <h3>Características destacadas</h3>
+<ul>
+  <li><strong>Región de Kanto:</strong> Explora ciudades, bosques y cuevas mientras capturas Pokémon.</li>
+  <li><strong>Objetivo:</strong> Convertirte en el mejor entrenador, enfrentando líderes de gimnasio y la Liga Pokémon.</li>
+  <li><strong>Gráficos mejorados:</strong> Aprovecha las capacidades de la Game Boy Advance.</li>
+  <li><strong>Pokémon exclusivos:</strong> Algunos solo pueden obtenerse
+  mediante intercambios con otros jugadores.</li>
+  <li><strong>Conectividad Compatible:</strong> con otros juegos de Pokémon en Game Boy
+  Advance para intercambios y combates </li>
+</ul>
+      </article>
+            <!-- Agrega más artículos o tarjetas de videojuegos según lo necesites -->
+    </main>
+
+    <footer>
+      <div class="container">
+        <p>&copy; 2025 Biblioteca Digital</p>
+      </div>
+    </footer>
+    <script src="html/js/index.js"></script>
+</body>
+</html>
