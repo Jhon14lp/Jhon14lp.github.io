@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="es">
 <head>
     <meta charset="UTF-8">
@@ -28,6 +28,7 @@
         <p>Descripción o detalles relevantes sobre la pieza musical, como el género, el artista, y el año de lanzamiento.</p>
       </article>
       <!-- Puedes agregar más artículos de música aquí -->
+    </section>
     </section>
   </main>
 
