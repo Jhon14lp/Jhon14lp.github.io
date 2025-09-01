@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="es">
 <head>
     <meta charset="UTF-8">
@@ -45,28 +45,6 @@
           <li><strong>Modo cooperativo:</strong> Juega con un amigo controlando a Cappy.</li>
         </ul>
       </article>
-      <article class="item">
-        <h3>Animal Crossing: New Horizons</h3>
-        <h3>Características destacadas</h3>
-        <ul>
-          <li><strong>Vida relajada:</strong> Crea y personaliza tu isla a tu gusto.</li>
-          <li><strong>Multijugador:</strong> Visita islas de amigos y comparte recursos.</li>
-          <li><strong>Eventos estacionales:</strong> Actividades y celebraciones durante todo el año.</li>
-          <li><strong>Decoración:</strong> Muebles, ropa y paisajismo personalizables.</li>
-          <li><strong>Personajes entrañables:</strong> Interactúa con vecinos únicos y divertidos.</li>
-        </ul>
-      </article>
-      <article class="item">
-        <h3>Splatoon 2</h3>
-        <h3>Características destacadas</h3>
-        <ul>
-          <li><strong>Acción multijugador:</strong> Batallas de pintura 4 vs 4 en línea.</li>
-          <li><strong>Modos variados:</strong> Competitivo, cooperativo y eventos especiales.</li>
-          <li><strong>Personalización:</strong> Ropa, armas y habilidades para tu Inkling.</li>
-          <li><strong>Estilo visual:</strong> Gráficos coloridos y animaciones fluidas.</li>
-          <li><strong>Actualizaciones:</strong> Nuevos mapas, armas y eventos periódicos.</li>
-        </ul>
-      </article>
       <h3>PlayStation 4</h3>
       <article class="item">
         <h3>God of War (2018)</h3>
@@ -88,28 +66,6 @@
           <li><strong>Historia original:</strong> Nueva trama exclusiva para el juego.</li>
           <li><strong>Gráficos detallados:</strong> Representación realista de la ciudad.</li>
           <li><strong>Desbloqueo de trajes:</strong> Gran variedad de trajes y habilidades.</li>
-        </ul>
-      </article>
-      <article class="item">
-        <h3>The Last of Us Part II</h3>
-        <h3>Características destacadas</h3>
-        <ul>
-          <li><strong>Narrativa intensa:</strong> Historia madura y emocional en un mundo postapocalíptico.</li>
-          <li><strong>Gráficos realistas:</strong> Detalles visuales y animaciones de alta calidad.</li>
-          <li><strong>Sigilo y acción:</strong> Combina exploración, combate y sigilo.</li>
-          <li><strong>Personajes profundos:</strong> Desarrollo de personajes y relaciones complejas.</li>
-          <li><strong>Ambientación:</strong> Escenarios variados y atmósfera inmersiva.</li>
-        </ul>
-      </article>
-      <article class="item">
-        <h3>Horizon Zero Dawn</h3>
-        <h3>Características destacadas</h3>
-        <ul>
-          <li><strong>Mundo abierto:</strong> Explora un mundo habitado por máquinas y tribus.</li>
-          <li><strong>Protagonista femenina:</strong> Controla a Aloy, una cazadora experta.</li>
-          <li><strong>Combate estratégico:</strong> Usa trampas, arcos y tecnología antigua.</li>
-          <li><strong>Historia intrigante:</strong> Descubre el origen de las máquinas y la civilización perdida.</li>
-          <li><strong>Gráficos espectaculares:</strong> Paisajes y criaturas detalladas.</li>
         </ul>
       </article>
       <h3>PC</h3>
@@ -135,28 +91,6 @@
           <li><strong>Gratis para jugar:</strong> Modelo free-to-play con microtransacciones.</li>
         </ul>
       </article>
-      <article class="item">
-        <h3>Counter-Strike: Global Offensive</h3>
-        <h3>Características destacadas</h3>
-        <ul>
-          <li><strong>Acción táctica:</strong> Enfrentamientos entre terroristas y antiterroristas.</li>
-          <li><strong>Competitivo:</strong> Escena eSports consolidada y torneos internacionales.</li>
-          <li><strong>Variedad de armas:</strong> Gran selección de armas y equipamiento.</li>
-          <li><strong>Modos de juego:</strong> Clásico, casual, deathmatch y más.</li>
-          <li><strong>Actualizaciones:</strong> Mejoras y nuevos contenidos periódicos.</li>
-        </ul>
-      </article>
-      <article class="item">
-        <h3>The Witcher 3: Wild Hunt</h3>
-        <h3>Características destacadas</h3>
-        <ul>
-          <li><strong>RPG de mundo abierto:</strong> Explora un vasto mundo lleno de misiones y secretos.</li>
-          <li><strong>Historia profunda:</strong> Narrativa madura y ramificada con múltiples finales.</li>
-          <li><strong>Combate dinámico:</strong> Usa magia, espadas y alquimia.</li>
-          <li><strong>Gráficos detallados:</strong> Paisajes y personajes realistas.</li>
-          <li><strong>Expansiones:</strong> Dos grandes DLCs con nuevas historias y regiones.</li>
-        </ul>
-      </article>
       <h3>Game Boy Advance</h3>
       <article class="item">
         <h3>Pokemon-Edicion rojo fuego (español)</h3>
@@ -178,28 +112,6 @@
           <li><strong>Historia:</strong> Narrativa más profunda que en entregas anteriores.</li>
           <li><strong>Gráficos coloridos:</strong> Aprovecha el hardware de la GBA.</li>
           <li><strong>Desafío:</strong> Enemigos y jefes exigentes.</li>
-        </ul>
-      </article>
-      <article class="item">
-        <h3>Advance Wars</h3>
-        <h3>Características destacadas</h3>
-        <ul>
-          <li><strong>Estrategia por turnos:</strong> Comanda ejércitos en mapas variados.</li>
-          <li><strong>Campaña:</strong> Múltiples misiones con dificultad creciente.</li>
-          <li><strong>Multijugador:</strong> Batallas locales y por cable link.</li>
-          <li><strong>Variedad de unidades:</strong> Tanques, aviones, infantería y más.</li>
-          <li><strong>Estilo visual:</strong> Gráficos coloridos y animaciones detalladas.</li>
-        </ul>
-      </article>
-      <article class="item">
-        <h3>Castlevania: Aria of Sorrow</h3>
-        <h3>Características destacadas</h3>
-        <ul>
-          <li><strong>Acción y exploración:</strong> Castillos llenos de enemigos y secretos.</li>
-          <li><strong>Sistema de almas:</strong> Obtén habilidades únicas de los enemigos derrotados.</li>
-          <li><strong>Historia original:</strong> Ambientada en el futuro, con nuevos personajes.</li>
-          <li><strong>Gráficos y música:</strong> Excelente ambientación visual y sonora.</li>
-          <li><strong>Rejugabilidad:</strong> Diferentes finales y modos de juego.</li>
         </ul>
       </article>
    </section>
