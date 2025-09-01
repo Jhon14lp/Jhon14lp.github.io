@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="es">
 <head>
     <meta charset="UTF-8">
@@ -33,7 +33,6 @@
           <li><strong>Personalización:</strong> Equipa armas, armaduras y cocina alimentos.</li>
           <li><strong>Gráficos y música:</strong> Estilo artístico único y banda sonora envolvente.</li>
         </ul>
-        <p><a href="https://www.nintendo.com/es-mx/store/products/the-legend-of-zelda-breath-of-the-wild-switch/" target="_blank" class="btn-link">Comprar/Descargar</a></p>
       </article>
       <article class="item">
         <h3>Super Mario Odyssey</h3>
@@ -45,7 +44,6 @@
           <li><strong>Variedad de escenarios:</strong> Desde ciudades modernas hasta desiertos y bosques.</li>
           <li><strong>Modo cooperativo:</strong> Juega con un amigo controlando a Cappy.</li>
         </ul>
-        <p><a href="https://www.nintendo.com/es-mx/store/products/super-mario-odyssey-switch/" target="_blank" class="btn-link">Comprar/Descargar</a></p>
       </article>
       <article class="item">
         <h3>Animal Crossing: New Horizons</h3>
@@ -57,7 +55,6 @@
           <li><strong>Decoración:</strong> Muebles, ropa y paisajismo personalizables.</li>
           <li><strong>Personajes entrañables:</strong> Interactúa con vecinos únicos y divertidos.</li>
         </ul>
-        <p><a href="https://www.nintendo.com/es-mx/store/products/animal-crossing-new-horizons-switch/" target="_blank" class="btn-link">Comprar/Descargar</a></p>
       </article>
       <article class="item">
         <h3>Splatoon 2</h3>
@@ -69,7 +66,6 @@
           <li><strong>Estilo visual:</strong> Gráficos coloridos y animaciones fluidas.</li>
           <li><strong>Actualizaciones:</strong> Nuevos mapas, armas y eventos periódicos.</li>
         </ul>
-        <p><a href="https://www.nintendo.com/es-mx/store/products/splatoon-2-switch/" target="_blank" class="btn-link">Comprar/Descargar</a></p>
       </article>
       <h3>PlayStation 4</h3>
       <article class="item">
@@ -82,7 +78,6 @@
           <li><strong>Gráficos impresionantes:</strong> Detalles visuales de última generación.</li>
           <li><strong>Historia envolvente:</strong> Narrativa madura y emocional.</li>
         </ul>
-        <p><a href="https://store.playstation.com/es-es/product/EP9000-CUSA07408_00-GODOFWARMAINGAME" target="_blank" class="btn-link">Comprar/Descargar</a></p>
       </article>
       <article class="item">
         <h3>Spider-Man</h3>
@@ -94,7 +89,6 @@
           <li><strong>Gráficos detallados:</strong> Representación realista de la ciudad.</li>
           <li><strong>Desbloqueo de trajes:</strong> Gran variedad de trajes y habilidades.</li>
         </ul>
-        <p><a href="https://store.playstation.com/es-es/product/EP9000-CUSA11995_00-MARVELSSMGOTY000" target="_blank" class="btn-link">Comprar/Descargar</a></p>
       </article>
       <article class="item">
         <h3>The Last of Us Part II</h3>
@@ -106,7 +100,6 @@
           <li><strong>Personajes profundos:</strong> Desarrollo de personajes y relaciones complejas.</li>
           <li><strong>Ambientación:</strong> Escenarios variados y atmósfera inmersiva.</li>
         </ul>
-        <p><a href="https://store.playstation.com/es-es/product/EP9000-CUSA10249_00-THELASTOFUSPART2" target="_blank" class="btn-link">Comprar/Descargar</a></p>
       </article>
       <article class="item">
         <h3>Horizon Zero Dawn</h3>
@@ -118,68 +111,6 @@
           <li><strong>Historia intrigante:</strong> Descubre el origen de las máquinas y la civilización perdida.</li>
           <li><strong>Gráficos espectaculares:</strong> Paisajes y criaturas detalladas.</li>
         </ul>
-        <p><a href="https://store.playstation.com/es-es/product/EP9000-CUSA07326_00-HRZCE00000000000" target="_blank" class="btn-link">Comprar/Descargar</a></p>
-      </article>
-      <h3>Xbox 360</h3>
-      <article class="item">
-        <h3>Halo 3</h3>
-        <h3>Características destacadas</h3>
-        <ul>
-          <li><strong>Campaña épica:</strong> Concluye la trilogía original de Halo con el Jefe Maestro.</li>
-          <li><strong>Multijugador:</strong> Modos competitivos y cooperativos en línea.</li>
-          <li><strong>Mapas icónicos:</strong> Amplia variedad de escenarios para batallas intensas.</li>
-          <li><strong>Forja:</strong> Editor de mapas para crear tus propios niveles.</li>
-          <li><strong>Gráficos mejorados:</strong> Aprovecha el hardware de Xbox 360.</li>
-        </ul>
-        <p><a href="https://marketplace.xbox.com/es-ES/Product/Halo-3/66acd000-77fe-1000-9115-d8024d5307e6" target="_blank" class="btn-link">Comprar/Descargar</a></p>
-      </article>
-      <article class="item">
-        <h3>Gears of War 2</h3>
-        <h3>Características destacadas</h3>
-        <ul>
-          <li><strong>Acción táctica:</strong> Coberturas y combate intenso en tercera persona.</li>
-          <li><strong>Historia cinematográfica:</strong> Lucha contra la Horda Locust en una campaña emocionante.</li>
-          <li><strong>Cooperativo:</strong> Juega la campaña con un amigo.</li>
-          <li><strong>Modo Horda:</strong> Sobrevive a oleadas de enemigos con amigos.</li>
-          <li><strong>Gráficos avanzados:</strong> Mejoras visuales respecto a la primera entrega.</li>
-        </ul>
-        <p><a href="https://marketplace.xbox.com/es-ES/Product/Gears-of-War-2/66acd000-77fe-1000-9115-d8024d53082d" target="_blank" class="btn-link">Comprar/Descargar</a></p>
-      </article>
-      <article class="item">
-        <h3>Red Dead Redemption</h3>
-        <h3>Características destacadas</h3>
-        <ul>
-          <li><strong>Mundo abierto:</strong> Explora el salvaje oeste con libertad total.</li>
-          <li><strong>Historia envolvente:</strong> Sigue la vida de John Marston en una narrativa profunda.</li>
-          <li><strong>Misiones variadas:</strong> Caza, duelos, asaltos y más.</li>
-          <li><strong>Gráficos realistas:</strong> Paisajes y ambientación detallados.</li>
-          <li><strong>Multijugador:</strong> Modos cooperativos y competitivos en línea.</li>
-        </ul>
-        <p><a href="https://marketplace.xbox.com/es-ES/Product/Red-Dead-Redemption/66acd000-77fe-1000-9115-d8025454082b" target="_blank" class="btn-link">Comprar/Descargar</a></p>
-      </article>
-      <article class="item">
-        <h3>Forza Motorsport 4</h3>
-        <h3>Características destacadas</h3>
-        <ul>
-          <li><strong>Simulación de carreras:</strong> Amplia selección de autos y circuitos reales.</li>
-          <li><strong>Gráficos impresionantes:</strong> Detalles visuales y físicas realistas.</li>
-          <li><strong>Personalización:</strong> Modifica y ajusta tus vehículos.</li>
-          <li><strong>Multijugador:</strong> Compite en línea con jugadores de todo el mundo.</li>
-          <li><strong>Compatibilidad con Kinect:</strong> Funciones adicionales con el sensor de movimiento.</li>
-        </ul>
-        <p><a href="https://marketplace.xbox.com/es-ES/Product/Forza-Motorsport-4/66acd000-77fe-1000-9115-d8024d5309c9" target="_blank" class="btn-link">Comprar/Descargar</a></p>
-      </article>
-      <article class="item">
-        <h3>Fable II</h3>
-        <h3>Características destacadas</h3>
-        <ul>
-          <li><strong>RPG de acción:</strong> Explora el mundo de Albion y toma decisiones que afectan la historia.</li>
-          <li><strong>Libertad de elección:</strong> Sé héroe o villano según tus acciones.</li>
-          <li><strong>Combate variado:</strong> Usa armas, magia y habilidades especiales.</li>
-          <li><strong>Interacción social:</strong> Relaciónate con personajes y forma una familia.</li>
-          <li><strong>Estilo artístico:</strong> Gráficos coloridos y ambientación única.</li>
-        </ul>
-        <p><a href="https://marketplace.xbox.com/es-ES/Product/Fable-II/66acd000-77fe-1000-9115-d8024d5307e0" target="_blank" class="btn-link">Comprar/Descargar</a></p>
       </article>
       <h3>PC</h3>
       <article class="item">
@@ -192,7 +123,6 @@
           <li><strong>Modificaciones:</strong> Amplía el juego con mods y paquetes de recursos.</li>
           <li><strong>Actualizaciones constantes:</strong> Nuevos contenidos y mejoras periódicas.</li>
         </ul>
-        <p><a href="https://www.minecraft.net/es-es/store/minecraft-java-bedrock-edition-pc" target="_blank" class="btn-link">Comprar/Descargar</a></p>
       </article>
       <article class="item">
         <h3>League of Legends</h3>
@@ -204,7 +134,6 @@
           <li><strong>Escena eSports:</strong> Torneos y ligas profesionales a nivel mundial.</li>
           <li><strong>Gratis para jugar:</strong> Modelo free-to-play con microtransacciones.</li>
         </ul>
-        <p><a href="https://signup.leagueoflegends.com/es-es/signup/index" target="_blank" class="btn-link">Descargar</a></p>
       </article>
       <article class="item">
         <h3>Counter-Strike: Global Offensive</h3>
@@ -216,7 +145,6 @@
           <li><strong>Modos de juego:</strong> Clásico, casual, deathmatch y más.</li>
           <li><strong>Actualizaciones:</strong> Mejoras y nuevos contenidos periódicos.</li>
         </ul>
-        <p><a href="https://store.steampowered.com/app/730/CounterStrike_Global_Offensive/" target="_blank" class="btn-link">Descargar</a></p>
       </article>
       <article class="item">
         <h3>The Witcher 3: Wild Hunt</h3>
@@ -228,7 +156,6 @@
           <li><strong>Gráficos detallados:</strong> Paisajes y personajes realistas.</li>
           <li><strong>Expansiones:</strong> Dos grandes DLCs con nuevas historias y regiones.</li>
         </ul>
-        <p><a href="https://store.steampowered.com/app/292030/The_Witcher_3_Wild_Hunt/" target="_blank" class="btn-link">Comprar/Descargar</a></p>
       </article>
       <h3>Game Boy Advance</h3>
       <article class="item">
@@ -241,7 +168,6 @@
           <li><strong>Pokémon exclusivos:</strong> Algunos solo pueden obtenerse mediante intercambios con otros jugadores.</li>
           <li><strong>Conectividad Compatible:</strong> con otros juegos de Pokémon en Game Boy Advance para intercambios y combates.</li>
         </ul>
-        <p><a href="https://www.nintendo.com/es-mx/store/products/pokemon-fire-red-version-gba/" target="_blank" class="btn-link">Comprar/Descargar</a></p>
       </article>
       <article class="item">
         <h3>Metroid Fusion</h3>
@@ -253,7 +179,6 @@
           <li><strong>Gráficos coloridos:</strong> Aprovecha el hardware de la GBA.</li>
           <li><strong>Desafío:</strong> Enemigos y jefes exigentes.</li>
         </ul>
-        <p><a href="https://www.nintendo.com/es-mx/store/products/metroid-fusion-gba/" target="_blank" class="btn-link">Comprar/Descargar</a></p>
       </article>
       <article class="item">
         <h3>Advance Wars</h3>
@@ -265,7 +190,6 @@
           <li><strong>Variedad de unidades:</strong> Tanques, aviones, infantería y más.</li>
           <li><strong>Estilo visual:</strong> Gráficos coloridos y animaciones detalladas.</li>
         </ul>
-        <p><a href="https://www.nintendo.com/es-mx/store/products/advance-wars-gba/" target="_blank" class="btn-link">Comprar/Descargar</a></p>
       </article>
       <article class="item">
         <h3>Castlevania: Aria of Sorrow</h3>
@@ -277,7 +201,62 @@
           <li><strong>Gráficos y música:</strong> Excelente ambientación visual y sonora.</li>
           <li><strong>Rejugabilidad:</strong> Diferentes finales y modos de juego.</li>
         </ul>
-        <p><a href="https://www.nintendo.com/es-mx/store/products/castlevania-aria-of-sorrow-gba/" target="_blank" class="btn-link">Comprar/Descargar</a></p>
+      </article>
+      <h3>Xbox 360</h3>
+      <article class="item">
+        <h3>Halo 3</h3>
+        <h3>Características destacadas</h3>
+        <ul>
+          <li><strong>Campaña épica:</strong> Concluye la trilogía original de Halo con el Jefe Maestro.</li>
+          <li><strong>Multijugador:</strong> Modos competitivos y cooperativos en línea.</li>
+          <li><strong>Mapas icónicos:</strong> Amplia variedad de escenarios para batallas intensas.</li>
+          <li><strong>Forja:</strong> Editor de mapas para crear tus propios niveles.</li>
+          <li><strong>Gráficos mejorados:</strong> Aprovecha el hardware de Xbox 360.</li>
+        </ul>
+      </article>
+      <article class="item">
+        <h3>Gears of War 2</h3>
+        <h3>Características destacadas</h3>
+        <ul>
+          <li><strong>Acción táctica:</strong> Coberturas y combate intenso en tercera persona.</li>
+          <li><strong>Historia cinematográfica:</strong> Lucha contra la Horda Locust en una campaña emocionante.</li>
+          <li><strong>Cooperativo:</strong> Juega la campaña con un amigo.</li>
+          <li><strong>Modo Horda:</strong> Sobrevive a oleadas de enemigos con amigos.</li>
+          <li><strong>Gráficos avanzados:</strong> Mejoras visuales respecto a la primera entrega.</li>
+        </ul>
+      </article>
+      <article class="item">
+        <h3>Red Dead Redemption</h3>
+        <h3>Características destacadas</h3>
+        <ul>
+          <li><strong>Mundo abierto:</strong> Explora el salvaje oeste con libertad total.</li>
+          <li><strong>Historia envolvente:</strong> Sigue la vida de John Marston en una narrativa profunda.</li>
+          <li><strong>Misiones variadas:</strong> Caza, duelos, asaltos y más.</li>
+          <li><strong>Gráficos realistas:</strong> Paisajes y ambientación detallados.</li>
+          <li><strong>Multijugador:</strong> Modos cooperativos y competitivos en línea.</li>
+        </ul>
+      </article>
+      <article class="item">
+        <h3>Forza Motorsport 4</h3>
+        <h3>Características destacadas</h3>
+        <ul>
+          <li><strong>Simulación de carreras:</strong> Amplia selección de autos y circuitos reales.</li>
+          <li><strong>Gráficos impresionantes:</strong> Detalles visuales y físicas realistas.</li>
+          <li><strong>Personalización:</strong> Modifica y ajusta tus vehículos.</li>
+          <li><strong>Multijugador:</strong> Compite en línea con jugadores de todo el mundo.</li>
+          <li><strong>Compatibilidad con Kinect:</strong> Funciones adicionales con el sensor de movimiento.</li>
+        </ul>
+      </article>
+      <article class="item">
+        <h3>Fable II</h3>
+        <h3>Características destacadas</h3>
+        <ul>
+          <li><strong>RPG de acción:</strong> Explora el mundo de Albion y toma decisiones que afectan la historia.</li>
+          <li><strong>Libertad de elección:</strong> Sé héroe o villano según tus acciones.</li>
+          <li><strong>Combate variado:</strong> Usa armas, magia y habilidades especiales.</li>
+          <li><strong>Interacción social:</strong> Relaciónate con personajes y forma una familia.</li>
+          <li><strong>Estilo artístico:</strong> Gráficos coloridos y ambientación única.</li>
+        </ul>
       </article>
    </section>
     </main>
