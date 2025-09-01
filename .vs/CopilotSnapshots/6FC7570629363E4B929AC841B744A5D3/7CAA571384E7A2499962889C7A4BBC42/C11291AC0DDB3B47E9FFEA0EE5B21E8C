@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="es">
 <head>
     <meta charset="UTF-8">
@@ -200,62 +200,6 @@
           <li><strong>Historia original:</strong> Ambientada en el futuro, con nuevos personajes.</li>
           <li><strong>Gráficos y música:</strong> Excelente ambientación visual y sonora.</li>
           <li><strong>Rejugabilidad:</strong> Diferentes finales y modos de juego.</li>
-        </ul>
-      </article>
-      <h3>Xbox 360</h3>
-      <article class="item">
-        <h3>Halo 3</h3>
-        <h3>Características destacadas</h3>
-        <ul>
-          <li><strong>Campaña épica:</strong> Concluye la trilogía original de Halo con el Jefe Maestro.</li>
-          <li><strong>Multijugador:</strong> Modos competitivos y cooperativos en línea.</li>
-          <li><strong>Mapas icónicos:</strong> Amplia variedad de escenarios para batallas intensas.</li>
-          <li><strong>Forja:</strong> Editor de mapas para crear tus propios niveles.</li>
-          <li><strong>Gráficos mejorados:</strong> Aprovecha el hardware de Xbox 360.</li>
-        </ul>
-      </article>
-      <article class="item">
-        <h3>Gears of War 2</h3>
-        <h3>Características destacadas</h3>
-        <ul>
-          <li><strong>Acción táctica:</strong> Coberturas y combate intenso en tercera persona.</li>
-          <li><strong>Historia cinematográfica:</strong> Lucha contra la Horda Locust en una campaña emocionante.</li>
-          <li><strong>Cooperativo:</strong> Juega la campaña con un amigo.</li>
-          <li><strong>Modo Horda:</strong> Sobrevive a oleadas de enemigos con amigos.</li>
-          <li><strong>Gráficos avanzados:</strong> Mejoras visuales respecto a la primera entrega.</li>
-        </ul>
-      </article>
-      <article class="item">
-        <h3>Red Dead Redemption</h3>
-        <h3>Características destacadas</h3>
-        <ul>
-          <li><strong>Mundo abierto:</strong> Explora el salvaje oeste con libertad total.</li>
-          <li><strong>Historia envolvente:</strong> Sigue la vida de John Marston en una narrativa profunda.</li>
-          <li><strong>Misiones variadas:</strong> Caza, duelos, asaltos y más.</li>
-          <li><strong>Gráficos realistas:</strong> Paisajes y ambientación detallados.</li>
-          <li><strong>Multijugador:</strong> Modos cooperativos y competitivos en línea.</li>
-        </ul>
-      </article>
-      <article class="item">
-        <h3>Forza Motorsport 4</h3>
-        <h3>Características destacadas</h3>
-        <ul>
-          <li><strong>Simulación de carreras:</strong> Amplia selección de autos y circuitos reales.</li>
-          <li><strong>Gráficos impresionantes:</strong> Detalles visuales y físicas realistas.</li>
-          <li><strong>Personalización:</strong> Modifica y ajusta tus vehículos.</li>
-          <li><strong>Multijugador:</strong> Compite en línea con jugadores de todo el mundo.</li>
-          <li><strong>Compatibilidad con Kinect:</strong> Funciones adicionales con el sensor de movimiento.</li>
-        </ul>
-      </article>
-      <article class="item">
-        <h3>Fable II</h3>
-        <h3>Características destacadas</h3>
-        <ul>
-          <li><strong>RPG de acción:</strong> Explora el mundo de Albion y toma decisiones que afectan la historia.</li>
-          <li><strong>Libertad de elección:</strong> Sé héroe o villano según tus acciones.</li>
-          <li><strong>Combate variado:</strong> Usa armas, magia y habilidades especiales.</li>
-          <li><strong>Interacción social:</strong> Relaciónate con personajes y forma una familia.</li>
-          <li><strong>Estilo artístico:</strong> Gráficos coloridos y ambientación única.</li>
         </ul>
       </article>
    </section>
